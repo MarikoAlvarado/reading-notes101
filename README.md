@@ -6,5 +6,5 @@ Having a "growth mindset" means that I believe in my ability to constantly evolv
 
 ### How can I maintain a "growth mindset"?
 ** I will learn from my mistakes, I _will not_ ignore them.
-** I will ask questions and search for answers instead of~~staying quietly confused~~
+** I will ask questions and search for answers instead of ~~staying quietly confused~~
 ** When things get tough I will keep going, I _will not_ quit.

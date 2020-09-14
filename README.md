@@ -8,3 +8,5 @@ Having a "growth mindset" means that I believe in my ability to constantly evolv
 1. I will learn from my mistakes, I _will not_ ignore them.
 2. I will ask questions and search for answers instead of ~~staying quietly confused~~
 3. When things get tough I will keep going, I _will not_ quit.
+
+![Like a Giant Redwood](https://www.shutterstock.com/image-vector/redwood-tree-silhouette-vector-illustration-hand-1693964533)

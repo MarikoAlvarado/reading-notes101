@@ -4,8 +4,8 @@ This is where I will be documenting all of my reading notes for CODE102.
 
 ## Reading Notes
 
-[Learning Markdown](https://marikoalvarado.github.io/mark-down/)
-[Using Git]()
+1. [Learning Markdown](https://marikoalvarado.github.io/mark-down/)
+2. Using Git
 
 ## Reviews
 

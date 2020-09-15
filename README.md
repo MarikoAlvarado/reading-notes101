@@ -7,7 +7,7 @@ This is where I will be documenting all of my reading notes for CODE102.
 [Learning Markdown](https://marikoalvarado.github.io/mark-down/)
 
 
-## I have a "growth mindset", but what does that mean?
+## What does it mean to have a "growth mindset"?
 Having a "growth mindset" means that I believe in my ability to constantly evolve and become greater by staying open minded to new possibilities and opportunities to grow. Having such a mindset also means that I will celebrate others who are also growing and succeeding as they work towards their goals because a competitive mindset will only hold me back.
 
 ### How can I maintain a "growth mindset"?

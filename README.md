@@ -5,6 +5,7 @@ This is where I will be documenting all of my reading notes for CODE102.
 ## Reading Notes
 
 [Learning Markdown](https://marikoalvarado.github.io/mark-down/)
+[Using Git]
 
 ## Reviews
 

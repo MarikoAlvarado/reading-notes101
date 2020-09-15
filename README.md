@@ -2,9 +2,11 @@
 # Mariko's Reading Notes
 This is where I will be documenting all of my reading notes for CODE102.
 
-## Links to Notes
+## Reading Notes
 
 [Learning Markdown](https://marikoalvarado.github.io/mark-down/)
+
+## Reviews
 
 
 ## What does it mean to have a "growth mindset"?

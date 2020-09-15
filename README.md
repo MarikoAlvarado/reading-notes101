@@ -1,3 +1,4 @@
+
 # Mariko's Reading Notes
 This is where I will be documenting all of my reading notes for CODE102.
 
@@ -10,3 +11,7 @@ Having a "growth mindset" means that I believe in my ability to constantly evolv
 3. When things get tough,keep going! _do not_ quit.
 
 ![Like a Giant Redwood](https://image.shutterstock.com/image-vector/redwood-tree-silhouette-vector-illustration-260nw-1693964533.jpg)
+
+## Links to Notes
+
+[Learning Markdown](https://marikoalvarado.github.io/mark-down/)

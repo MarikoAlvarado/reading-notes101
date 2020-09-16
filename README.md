@@ -16,3 +16,5 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 [Using Git](https://marikoalvarado.github.io/using-git/) 
 
 [HTML](https://marikoalvarado.github.io/html-notes/)
+
+[CSS](https://marikoalvarado.github.io/css-notes/)

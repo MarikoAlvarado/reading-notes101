@@ -9,7 +9,7 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 [Mindset](https://marikoalvarado.github.io/growth-mindset/)
 
-[Markdown](https://marikoalvarado.github.io/mark-down/)
+[Markdown](https://marikoalvarado.github.io/markdown-notes/)
 
 [The Coder's Computer](https://marikoalvarado.github.io/coding-computer/)
 

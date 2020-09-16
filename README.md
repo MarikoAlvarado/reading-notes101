@@ -1,6 +1,9 @@
 
-# Mariko's Reading Notes
-This is where I will be documenting all of my reading notes and projects for CODE102.
+# Welcome to my site!
+
+My name is Mariko and I am a student at Code Fellows. This is where I will be documenting my notes from assigned readings and projects throughout Code102!
+
+![Mariko]([url=https://ibb.co/TMCyx2n][img]https://i.ibb.co/TMCyx2n/18-EF0-C46-AF9-E-459-B-AAF0-E48183-C7-B665-1-201-a.jpg[/img][/url])
 
 ## Reading Notes
 

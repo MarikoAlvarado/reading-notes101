@@ -5,24 +5,24 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 ## Table of Contents
 
-[Home](https://marikoalvarado.github.io/reading-notes/)
+[Home](/reading-notes/README.md)
 
 [Mindset](/growth-mindset/README.md)
 
-[Markdown](https://marikoalvarado.github.io/mark-down/)
+[Markdown](/mark-down/README.md)
 
-[The Coder's Computer](https://marikoalvarado.github.io/coding-computer/)
+[The Coder's Computer](/coding-computer/README.md)
 
-[Computer Architecture and Logic](https://marikoalvarado.github.io/computer-archlogic/)
+[Computer Architecture and Logic](/computer-archlogic/README.md)
 
-[Using Git](https://marikoalvarado.github.io/using-git/) 
+[Using Git](/using-git/README.md)
 
-[HTML](https://marikoalvarado.github.io/html-notes/)
+[HTML](/html-notes/README.md)
 
-[CSS](https://marikoalvarado.github.io/css-notes/)
+[CSS](/css-notes/README.md)
 
-[JAVASCRIPT](https://marikoalvarado.github.io/java-script/)
+[JAVASCRIPT](/java-script/README.md)
 
-[Programming With JAVASCRIPT](https://marikoalvarado.github.io/more-javascript/)
+[Programming With JAVASCRIPT](/more-javascript/README.md)
 
-[Operators and Loops with JAVASCRIPT](https://marikoalvarado.github.io/operators-loops/)
+[Operators and Loops with JAVASCRIPT](/operators-loops/README.md)

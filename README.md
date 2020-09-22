@@ -7,7 +7,7 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 [Home](https://marikoalvarado.github.io/reading-notes/)
 
-[Mindset](https://marikoalvarado.github.io/growth-mindset/)
+[Mindset](/growth-mindset/README.md)
 
 [Markdown](https://marikoalvarado.github.io/mark-down/)
 

@@ -1,3 +1,5 @@
+[Reading Notes Home](README.md)
+
 # JAVASCRIPT Reading Notes
 
 ## Duckett: JS&JQUERY Intro + Scripts: Pages 1 - 24

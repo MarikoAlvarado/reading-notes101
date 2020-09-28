@@ -1,3 +1,5 @@
+[Reading Notes Home](README.md)
+
 # Computer Architecture and Logic
 
 #### What makes a computer?

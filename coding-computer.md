@@ -1,3 +1,5 @@
+[Reading Notes Home](README.md)
+
 # The Coder's Computer
 
 ## Choosing A Text Editor

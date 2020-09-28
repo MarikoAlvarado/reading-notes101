@@ -1,3 +1,5 @@
+[Reading Notes Home](README.md)
+
 # Learning Markdown!
 
 ## What is "Markdown" and how should you use it?

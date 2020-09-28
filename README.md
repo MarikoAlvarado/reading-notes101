@@ -7,22 +7,22 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 [Home](/reading-notes/README.md)
 
-[Mindset](/growth-mindset/README.md)
+[Mindset](growth-mindset.md)
 
-[Markdown](/mark-down/README.md)
+[Markdown](mark-down.md)
 
 [The Coder's Computer](coding-computer.md)
 
-[Computer Architecture and Logic](/computer-archlogic/README.md)
+[Computer Architecture and Logic](computer-archlogic.md)
 
-[Using Git](/using-git/README.md)
+[Using Git](using-git.md)
 
-[HTML](/html-notes/README.md)
+[HTML](html-notes.md)
 
-[CSS](/css-notes/README.md)
+[CSS](css-notes.md)
 
-[JAVASCRIPT](/java-script/README.md)
+[JAVASCRIPT](java-script.md)
 
-[Programming With JAVASCRIPT](/more-javascript/README.md)
+[Programming With JAVASCRIPT](js-2.md)
 
 [Operators and Loops in JS](operators-loops.md)

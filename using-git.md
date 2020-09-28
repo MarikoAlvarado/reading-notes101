@@ -1,27 +1,3 @@
-## Table of Contents
-
-[Home](https://marikoalvarado.github.io/reading-notes/)
-
-[Mindset](https://marikoalvarado.github.io/growth-mindset/)
-
-[Markdown](https://marikoalvarado.github.io/mark-down/)
-
-[The Coder's Computer](https://marikoalvarado.github.io/coding-computer/)
-
-[Computer Architecture and Logic](https://marikoalvarado.github.io/computer-archlogic/)
-
-[Using Git](https://marikoalvarado.github.io/using-git/) 
-
-[HTML](https://marikoalvarado.github.io/html-notes/)
-
-[CSS](https://marikoalvarado.github.io/css-notes/)
-
-[JAVASCRIPT](https://marikoalvarado.github.io/java-script/)
-
-[Programming With JAVASCRIPT](https://marikoalvarado.github.io/more-javascript/)
-
-[Operators and Loops with JAVASCRIPT](https://marikoalvarado.github.io/operators-loops/)
-
 # What is Git?
 
 - Git is the version control for files, folders and projects. Git uses local operations so you can skip the need of having history fetched from a server. It also reduces the likelihood of losing data and will track changes made to any files or directories. Files are either in a commited state, modified state or staged.

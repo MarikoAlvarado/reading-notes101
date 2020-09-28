@@ -25,4 +25,4 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 [Programming With JAVASCRIPT](/more-javascript/README.md)
 
-[Operators and Loops with JAVASCRIPT](/operators-loops/operators-loops.md)
+[operators-loops.md]

@@ -11,7 +11,7 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 [Markdown](/mark-down/README.md)
 
-[The Coder's Computer](/coding-computer.md)
+[The Coder's Computer](coding-computer.md)
 
 [Computer Architecture and Logic](/computer-archlogic/README.md)
 

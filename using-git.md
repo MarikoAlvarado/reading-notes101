@@ -1,3 +1,5 @@
+[Reading Notes Home](README.md)
+
 # What is Git?
 
 - Git is the version control for files, folders and projects. Git uses local operations so you can skip the need of having history fetched from a server. It also reduces the likelihood of losing data and will track changes made to any files or directories. Files are either in a commited state, modified state or staged.

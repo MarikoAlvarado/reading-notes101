@@ -6,7 +6,7 @@
 
 [Markdown](https://marikoalvarado.github.io/mark-down/)
 
-[The Coder's Computer](https://marikoalvarado.github.io/coding-computer/)
+[The Coder's Computer](coding-computer.md)
 
 [Computer Architecture and Logic](https://marikoalvarado.github.io/computer-archlogic/)
 

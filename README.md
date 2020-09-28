@@ -5,8 +5,6 @@ My name is Mariko and I am a student at Code Fellows. This is where I will be do
 
 ## Table of Contents
 
-[Home](/reading-notes/README.md)
-
 [Mindset](growth-mindset.md)
 
 [Markdown](mark-down.md)
